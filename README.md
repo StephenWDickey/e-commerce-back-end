@@ -1,9 +1,9 @@
 # e-commerce-back-end
 
-![Video of application](./assets/mysql-shell.webm)
-![Video of application](./assets/get-requests-all.webm)
-![Video of application](./assets/get-requests-single.webm)
-![Video of application](./assets/post-put-delete.webm)
+![Video db creation through MySQL shell](./assets/mysql-shell.webm)
+![Video of installing packages, seeding table data, GET requests](./assets/get-requests-all.webm)
+![GET requests for single objects](./assets/get-requests-single.webm)
+![POST PUT and DELETE requests](./assets/post-put-delete.webm)
 
 ## Description 
 
